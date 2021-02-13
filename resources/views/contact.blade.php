@@ -6,7 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 </head>
-<body>
+<body><a href="/">หน้าแรก</a> |<a href="/about">เกี่ยวกับ</a>|<a href="/contact">ติดต่อ</a>
     <h1>witsanu Duangsang</h1>
+    <h1>well man hey</h1>
+    <h1>0810317893</h1>
 </body>
 </html>
