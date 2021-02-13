@@ -9,6 +9,6 @@
 </head>
 <body>
     <a href="/">หน้าแรก</a> |<a href="/about">เกี่ยวกับ</a>|<a href="/contact">ติดต่อ</a>
- <h1>well man hey</h1>
+ <h1>hi</h1>
 </body>
 </html>
