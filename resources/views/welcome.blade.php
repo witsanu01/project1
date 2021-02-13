@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <a href="/"></a> |<a href="/about">เกี่ยวกับ</a>|<a href="/contact">ติดต่อ</a>
+    <a href="/">หน้าแรก</a> |<a href="/about">เกี่ยวกับ</a>|<a href="/contact">ติดต่อ</a>
  <h1>well man hey</h1>
 </body>
 </html>
